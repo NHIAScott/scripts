@@ -1,0 +1,4 @@
+/* hide federal in legend */
+gh-map g:has(> g[aria-label=Federal]) {
+    display: none;
+}
