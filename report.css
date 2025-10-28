@@ -2,3 +2,7 @@
 gh-map g:has(> g[aria-label=Federal]) {
     display: none;
 }
+
+html {
+    font-size: 16px;
+}
